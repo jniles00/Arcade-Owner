@@ -9,5 +9,4 @@ public class ArcadeOwnerApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ArcadeOwnerApplication.class, args);
 	}
-
 }
