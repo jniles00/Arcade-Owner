@@ -1,4 +1,4 @@
-package com.jn.arcade;
+package com.jn.arcade.entity;
 
 import java.util.Objects;
 
