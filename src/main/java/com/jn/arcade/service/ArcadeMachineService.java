@@ -23,7 +23,7 @@ public class ArcadeMachineService implements ServiceMethods<ArcadeMachine> {
 
 	// Displays all ArcadeMachine objects in the list
 	@Override
-	public List<ArcadeMachine> readall() {
+	public List<ArcadeMachine> readAll() {
 		return this.repo.findAll();
 	}
 
