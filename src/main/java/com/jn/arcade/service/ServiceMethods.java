@@ -8,7 +8,7 @@ public interface ServiceMethods<T> {
 	T create (T ArcadeMachine);
 	
 	// Read All - read all objects in a list
-	List<T> readall();
+	List<T> readAll();
 	
 	// Read by ID - find object by ID
 	T readById(Long id);
