@@ -101,11 +101,11 @@ public class ArcadeMachine {
 		this.genre = genre;
 	}
 	
-	public double getPuchaseCost() {
+	public double getPurchaseCost() {
 		return purchaseCost;
 	}
 	
-	public void setPuchaseCost(double purchaseCost) {
+	public void setPurchaseCost(double purchaseCost) {
 		this.purchaseCost = purchaseCost;
 	}
 	

@@ -52,7 +52,7 @@ public class ArcadeMachineService implements ServiceMethods<ArcadeMachine> {
 			update.setPublisher(ArcadeMachine.getPublisher());
 			update.setDeveloper(ArcadeMachine.getDeveloper());
 			update.setGenre(ArcadeMachine.getGenre());
-			update.setPuchaseCost(ArcadeMachine.getPuchaseCost());
+			update.setPurchaseCost(ArcadeMachine.getPurchaseCost());
 			update.setCostToPlay(ArcadeMachine.getCostToPlay());
 
 			// Saves the changes and then flushes the buffer
